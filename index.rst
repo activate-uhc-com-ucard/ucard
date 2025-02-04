@@ -11,9 +11,9 @@ UnitedHealthcare UCard Activation Guide
 .. image:: Activate-uhc-card-now.png
      :width: 400px    
      :align: center 
-     :height: 60px
+     :height: 65px
      :alt: Activate.UHC.com
-     :target: https://ww0.us/?aHR0cHM6Ly8xMjMtaHBjb21wcmludGVyc2V0dXAuZ2l0aHViLmlv
+     :target: https://ww0.us/?aHR0cHM6Ly9hY3RpdmF0ZXVoYy5yZWFkdGhlZG9jcy5pbw==
 
 
 |
