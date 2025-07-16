@@ -8,12 +8,12 @@ UnitedHealthcare UCard Activation Guide
 
 |
 
-.. image:: Activate-uhc-card-now.png
+.. image:: Button.png
      :width: 400px    
      :align: center 
      :height: 65px
      :alt: Activate.UHC.com
-     :target: https://ww0.us/?aHR0cHM6Ly9hY3RpdmF0ZXVoYy5yZWFkdGhlZG9jcy5pbw==
+     :target: https://activate-uhc-com-ucard.github.io/Uhc-card-activation.html
 
 
 |
